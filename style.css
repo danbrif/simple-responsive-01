@@ -78,5 +78,7 @@ footer {
     object-fit: cover;
   }
 
-
+  .creative {
+  color: midnightblue;
+  }
 }
